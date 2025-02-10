@@ -1,8 +1,8 @@
 ### Hi, I'm Matthieu or MattMattC 😉
 
-Front end developer at Limengo   
+Lead dev Front End at [Staffea](https://www.linkedin.com/company/66632992), working on React/Typescript.
 
 ## Network 
 
-- [Twitter mattmatt_c](https://twitter.com/mattmatt_c)
 - [Linkedin](https://www.linkedin.com/in/matthieu-coulon-5379746b/)
+- [Instagram](https://www.instagram.com/mattmattc7/)
